@@ -1,0 +1,7 @@
+numpy
+Flask
+pandas
+tensorflow 
+seaborn
+matplotlib
+notebook
